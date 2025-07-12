@@ -1,4 +1,4 @@
-"homepage": "https://your-username.github.io/your-repo-name"
+"homepage": "https://github.com/Snahal-Vinod-Pawar/Assembly-Endgame-React.git"
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
