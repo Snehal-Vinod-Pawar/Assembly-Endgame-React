@@ -1,19 +1,16 @@
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-}
-
 {
-  "homepage": "https://Snehal-Vinod-Pawar.github.io/Assembly-Endgame-React"
   "name": "assembly-endgame",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Snehal-Vinod-Pawar.github.io/Assembly-Endgame-React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "clsx": "^2.1.1",
