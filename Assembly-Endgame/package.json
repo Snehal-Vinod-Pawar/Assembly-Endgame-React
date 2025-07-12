@@ -1,4 +1,9 @@
 "homepage": "https://your-username.github.io/your-repo-name"
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
+
 {
   "name": "assembly-endgame",
   "private": true,
