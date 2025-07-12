@@ -1,10 +1,10 @@
-"homepage": "https://Snehal-Vinod-Pawar.github.io/Assembly-Endgame-React"
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 }
 
 {
+  "homepage": "https://Snehal-Vinod-Pawar.github.io/Assembly-Endgame-React"
   "name": "assembly-endgame",
   "private": true,
   "version": "0.0.0",
